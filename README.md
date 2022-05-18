@@ -1,4 +1,6 @@
+<!--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lasypig&data=followers,repositories,stars,commits)](https://github.com/lasypig)
+-->
 
 ### Hi there 👋
 
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for MYSELF.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasypig&layout=compact)](https://github.com/lasypig)
