@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=lasypig&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 ### Hi there 👋
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 - 🤔 I’m looking for MYSELF.
+
